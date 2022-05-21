@@ -1,26 +1,36 @@
+## Hello everyone here! Let's up? 
+I'm Emily Inouye, but call me Emmy 🖐️. I'm from Brazil 🇧🇷. I'm a Jr Data Analyst. I've been studying technology since 2020, currently studying Artificial Intelligence.❤️
+<div> 
+<a href="https://www.linkedin.com/in/emillygabrielly-abs" target="_blank"><img src="https://img.shields.io/badge/-Emilly%20Inouye-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/emmy_inouye" target="_blank"><img src="https://img.shields.io/badge/-emmy_inouye-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://discord.com/channels/@me/730913374124245004" target="_blank"><img src="https://img.shields.io/badge/emmy-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="inegabs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Emilly%20Gabrielly-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=d93737" target="_blank"></a> 
+</div> 
+-
 <div align="center"> 
   <a href="https://github.com/emillygabrielly-abs"> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emillygabrielly-abs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillygabrielly-abs&layout=compact&langs_count=7&theme=radical"/> 
 </div> 
-<div style="display: inline_block"><br> 
-<img align="center" alt="Emy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-<img align="center" alt="Emy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-<img align="center" alt="Emy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-<img align="center" alt="Emy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-<img align="center" alt="Emy-Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/> 
-<!-- <img align="right" alt="Emy-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
-</div> --> 
-
+  
+### Technologies:
+Languages I use in everyday life, I'm studying, or I've worked.
+<div display='inline-block'>
+  <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=ffe540&style=for-the-badge&logo=javascript&logoColor=3a3646"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4860ca&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3276ff&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=ff722a&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Rstudio&color=6aaeee&style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=ad4de9&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=3285ce&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=6608ff&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=ubuntu&color=e24c00&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=linux&color=black&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=anaconda&color=green&style=for-the-badge&logo=anaconda&logoColor=white"/>
+ </div>
 
 ## 
 
-<div> 
-<a href="https://www.youtube.com/channel/UCdhD9VFSnRZDYzdJ3GyErYw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/emmy_inouye" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://www.twitch.tv/andorinhaxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-<a href="https://discord.com/channels/@me/730913374124245004" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=branco" target="_blank"></a> 
-<a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></ a> 
-<a href="https://www.linkedin.com/in/emillygabrielly-abs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
+### About: 
+- [Acess my portfolio here](https://linktr.ee/egabsantos)
+- Anyway, call me to work together. If you just want to chat, that's fine too.
