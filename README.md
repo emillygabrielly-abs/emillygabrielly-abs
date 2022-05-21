@@ -1,5 +1,5 @@
 ## Hello everyone here! Let's up? 
-I'm Emilly Inouye, but call me Emmy 🖐️. I'm from Brazil 🇧🇷. I'm a Jr Data Analyst. I've been studying technology since 2020, currently studying Artificial Intelligence.❤️
+I'm Emilly Inouye, but call me Emmy 🖐️. I'm from Brazil 🇧🇷. I'm a Jr Data Analyst and Developer FullStack. I've been studying technology since 2020, currently studying Artificial Intelligence.❤️
 <div> 
 <a href="https://www.linkedin.com/in/emillygabrielly-abs" target="_blank"><img src="https://img.shields.io/badge/-Emilly%20Inouye-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/emmy_inouye" target="_blank"><img src="https://img.shields.io/badge/-emmy_inouye-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
