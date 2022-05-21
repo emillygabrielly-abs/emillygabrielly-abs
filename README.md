@@ -4,7 +4,7 @@ I'm Emily Inouye, but call me Emmy 🖐️. I'm from Brazil 🇧🇷. I'm a Jr D
 <a href="https://www.linkedin.com/in/emillygabrielly-abs" target="_blank"><img src="https://img.shields.io/badge/-Emilly%20Inouye-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/emmy_inouye" target="_blank"><img src="https://img.shields.io/badge/-emmy_inouye-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@me/730913374124245004" target="_blank"><img src="https://img.shields.io/badge/emmy-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="inegabs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Emilly%20Gabrielly-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=d93737" target="_blank"></a> 
+<a href="gmail: inegabs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-inegabs@gmail.com-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=d93737" target="_blank"></a> 
 </div> 
 -
 <div align="center"> 
@@ -32,5 +32,5 @@ Languages I use in everyday life, I'm studying, or I've worked.
 ## 
 
 ### About: 
-- [Acess my portfolio here](https://linktr.ee/egabsantos)
-- Anyway, call me to work together. If you just want to chat, that's fine too.
+- 🌸 [Acess my portfolio here](https://linktr.ee/egabsantos) 🌸
+- Anyway, call me to work together. If you just want to chat, that's fine too. 😙❤️
